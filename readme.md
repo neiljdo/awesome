@@ -261,7 +261,7 @@
 
 ## Computer Science
 
-- [University Courses](https://github.com/prakhar1989/awesome-courses)
+- ❗[**TODO** University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/bulutyazilim/awesome-datascience)
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -297,14 +297,14 @@
 
 ## Theory
 
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+- ❗[**TODO** Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
-- [Algorithms](https://github.com/tayllan/awesome-algorithms)
+- ❗[**TODO** Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
-- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
-- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
-- [Math](https://github.com/rossant/awesome-math)
+- ❗[**TODO** Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+- ❗[**TODO**Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
+- ❗[**TODO** Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
+- ❗[**TODO**Math](https://github.com/rossant/awesome-math)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - Traversing nested data structures.
 
 
@@ -563,7 +563,7 @@
 - [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
+- ❗[**TODO** Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
