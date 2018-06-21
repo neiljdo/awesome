@@ -444,7 +444,7 @@
 
 ## Hardware
 
-- [Robotics](https://github.com/Kiloreux/awesome-robotics)
+- ❗[**TODO** Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
@@ -539,7 +539,7 @@
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Colorful](https://github.com/Siddharth11/Colorful) - Choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
-- [Bots](https://github.com/hackerkid/bots) - Building bots.
+- ❗[**TODO** Bots](https://github.com/hackerkid/bots) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
 - [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
